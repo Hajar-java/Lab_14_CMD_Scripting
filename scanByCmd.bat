@@ -1,0 +1,1 @@
+"C:\Users\halty\.jdks\openjdk-24.0.1\bin\java" FileScan sample.txt
